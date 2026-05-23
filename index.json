@@ -1,87 +1,401 @@
-[
-  {
-    "name": "Tachiyomi: NovelCool",
-    "pkg": "eu.kanade.tachiyomi.extension.all.novelcool",
-    "apk": "tachiyomi-all.novelcool-v1.4.7.apk",
-    "lang": "all",
-    "code": 7,
-    "version": "1.4.7",
-    "nsfw": 1,
-    "sources": [
-      {
-        "name": "NovelCool",
-        "lang": "es",
-        "id": "438359803442833644",
-        "baseUrl": "https://es.novelcool.com"
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: Ikigai Mangas",
-    "pkg": "eu.kanade.tachiyomi.extension.es.ikigaimangas",
-    "apk": "tachiyomi-es.ikigaimangas-v1.4.30.apk",
-    "lang": "es",
-    "code": 30,
-    "version": "1.4.30",
-    "nsfw": 1,
-    "sources": [
-      {
-        "name": "Ikigai Mangas",
-        "lang": "es",
-        "id": "3546919326830738510",
-        "baseUrl": "https://viralikigai.melauroral.com"
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: ManhwaWeb",
-    "pkg": "eu.kanade.tachiyomi.extension.es.manhwaweb",
-    "apk": "tachiyomi-es.manhwaweb-v1.4.10.apk",
-    "lang": "es",
-    "code": 10,
-    "version": "1.4.10",
-    "nsfw": 1,
-    "sources": [
-      {
-        "name": "ManhwaWeb",
-        "lang": "es",
-        "id": "5943212552955476721",
-        "baseUrl": "https://manhwaweb.com"
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: Olympus Scanlation",
-    "pkg": "eu.kanade.tachiyomi.extension.es.olympusscanlation",
-    "apk": "tachiyomi-es.olympusscanlation-v1.4.17.apk",
-    "lang": "es",
-    "code": 17,
-    "version": "1.4.17",
-    "nsfw": 0,
-    "sources": [
-      {
-        "name": "Olympus Scanlation",
-        "lang": "es",
-        "id": "1596411039134168890",
-        "baseUrl": "https://olympusbiblioteca.com"
-      }
-    ]
-  },
-  {
-    "name": "Tachiyomi: Zonatmo.to (unoriginal)",
-    "pkg": "eu.kanade.tachiyomi.extension.es.zonatmoto",
-    "apk": "tachiyomi-es.zonatmoto-v1.4.2.apk",
-    "lang": "es",
-    "code": 2,
-    "version": "1.4.2",
-    "nsfw": 1,
-    "sources": [
-      {
-        "name": "Zonatmo.to (unoriginal)",
-        "lang": "es",
-        "id": "1900395790630760038",
-        "baseUrl": "https://zonatmo.to"
-      }
-    ]
-  }
+﻿[
+    {
+        "name":  "Tachiyomi: HentaiHand",
+        "pkg":  "eu.kanade.tachiyomi.extension.all.hentaihand",
+        "apk":  "tachiyomi-all.hentaihand-v1.4.10.apk",
+        "lang":  "all",
+        "code":  10,
+        "version":  "1.4.10",
+        "nsfw":  1,
+        "sources":  [
+                        {
+                            "name":  "HentaiHand",
+                            "lang":  "all",
+                            "id":  "1235047015955289468",
+                            "baseUrl":  "https://hentaihand.com"
+                        },
+                        {
+                            "name":  "HentaiHand",
+                            "lang":  "en",
+                            "id":  "1438773694780928937",
+                            "baseUrl":  "https://hentaihand.com"
+                        },
+                        {
+                            "name":  "HentaiHand",
+                            "lang":  "zh",
+                            "id":  "866133291730804205",
+                            "baseUrl":  "https://hentaihand.com"
+                        },
+                        {
+                            "name":  "HentaiHand",
+                            "lang":  "ja",
+                            "id":  "4992571563369273240",
+                            "baseUrl":  "https://hentaihand.com"
+                        },
+                        {
+                            "name":  "HentaiHand",
+                            "lang":  "other",
+                            "id":  "7302549142935671434",
+                            "baseUrl":  "https://hentaihand.com"
+                        },
+                        {
+                            "name":  "HentaiHand",
+                            "lang":  "eo",
+                            "id":  "6189674531673390664",
+                            "baseUrl":  "https://hentaihand.com"
+                        },
+                        {
+                            "name":  "HentaiHand",
+                            "lang":  "ceb",
+                            "id":  "2136686110556284465",
+                            "baseUrl":  "https://hentaihand.com"
+                        },
+                        {
+                            "name":  "HentaiHand",
+                            "lang":  "cs",
+                            "id":  "6818645358118704394",
+                            "baseUrl":  "https://hentaihand.com"
+                        },
+                        {
+                            "name":  "HentaiHand",
+                            "lang":  "ar",
+                            "id":  "5494684486943087247",
+                            "baseUrl":  "https://hentaihand.com"
+                        },
+                        {
+                            "name":  "HentaiHand",
+                            "lang":  "sk",
+                            "id":  "3548394435548008920",
+                            "baseUrl":  "https://hentaihand.com"
+                        },
+                        {
+                            "name":  "HentaiHand",
+                            "lang":  "mn",
+                            "id":  "4197081087116305652",
+                            "baseUrl":  "https://hentaihand.com"
+                        },
+                        {
+                            "name":  "HentaiHand",
+                            "lang":  "uk",
+                            "id":  "299569391162966579",
+                            "baseUrl":  "https://hentaihand.com"
+                        },
+                        {
+                            "name":  "HentaiHand",
+                            "lang":  "la",
+                            "id":  "3078530910469685147",
+                            "baseUrl":  "https://hentaihand.com"
+                        },
+                        {
+                            "name":  "HentaiHand",
+                            "lang":  "tl",
+                            "id":  "8205998909543626240",
+                            "baseUrl":  "https://hentaihand.com"
+                        },
+                        {
+                            "name":  "HentaiHand",
+                            "lang":  "es",
+                            "id":  "1049245690865797006",
+                            "baseUrl":  "https://hentaihand.com"
+                        },
+                        {
+                            "name":  "HentaiHand",
+                            "lang":  "it",
+                            "id":  "8272502917504358946",
+                            "baseUrl":  "https://hentaihand.com"
+                        },
+                        {
+                            "name":  "HentaiHand",
+                            "lang":  "ko",
+                            "id":  "2772498967425526818",
+                            "baseUrl":  "https://hentaihand.com"
+                        },
+                        {
+                            "name":  "HentaiHand",
+                            "lang":  "th",
+                            "id":  "392245224742696225",
+                            "baseUrl":  "https://hentaihand.com"
+                        },
+                        {
+                            "name":  "HentaiHand",
+                            "lang":  "pl",
+                            "id":  "6173663752022195918",
+                            "baseUrl":  "https://hentaihand.com"
+                        },
+                        {
+                            "name":  "HentaiHand",
+                            "lang":  "fr",
+                            "id":  "2304134427430911086",
+                            "baseUrl":  "https://hentaihand.com"
+                        },
+                        {
+                            "name":  "HentaiHand",
+                            "lang":  "pt-BR",
+                            "id":  "2516244587139644000",
+                            "baseUrl":  "https://hentaihand.com"
+                        },
+                        {
+                            "name":  "HentaiHand",
+                            "lang":  "de",
+                            "id":  "8300414741852788090",
+                            "baseUrl":  "https://hentaihand.com"
+                        },
+                        {
+                            "name":  "HentaiHand",
+                            "lang":  "fi",
+                            "id":  "4855613465785451164",
+                            "baseUrl":  "https://hentaihand.com"
+                        },
+                        {
+                            "name":  "HentaiHand",
+                            "lang":  "ru",
+                            "id":  "5788099943016900736",
+                            "baseUrl":  "https://hentaihand.com"
+                        },
+                        {
+                            "name":  "HentaiHand",
+                            "lang":  "hu",
+                            "id":  "6490746811386262494",
+                            "baseUrl":  "https://hentaihand.com"
+                        },
+                        {
+                            "name":  "HentaiHand",
+                            "lang":  "id",
+                            "id":  "202981519301875762",
+                            "baseUrl":  "https://hentaihand.com"
+                        },
+                        {
+                            "name":  "HentaiHand",
+                            "lang":  "vi",
+                            "id":  "474754362133655719",
+                            "baseUrl":  "https://hentaihand.com"
+                        },
+                        {
+                            "name":  "HentaiHand",
+                            "lang":  "nl",
+                            "id":  "7899387259192038112",
+                            "baseUrl":  "https://hentaihand.com"
+                        },
+                        {
+                            "name":  "HentaiHand",
+                            "lang":  "hi",
+                            "id":  "1337874080374168573",
+                            "baseUrl":  "https://hentaihand.com"
+                        },
+                        {
+                            "name":  "HentaiHand",
+                            "lang":  "tr",
+                            "id":  "6304497572870246566",
+                            "baseUrl":  "https://hentaihand.com"
+                        },
+                        {
+                            "name":  "HentaiHand",
+                            "lang":  "el",
+                            "id":  "9098484674492839156",
+                            "baseUrl":  "https://hentaihand.com"
+                        },
+                        {
+                            "name":  "HentaiHand",
+                            "lang":  "sr",
+                            "id":  "259350817779848434",
+                            "baseUrl":  "https://hentaihand.com"
+                        },
+                        {
+                            "name":  "HentaiHand",
+                            "lang":  "jv",
+                            "id":  "8174384290387590645",
+                            "baseUrl":  "https://hentaihand.com"
+                        },
+                        {
+                            "name":  "HentaiHand",
+                            "lang":  "bg",
+                            "id":  "7561346598466986562",
+                            "baseUrl":  "https://hentaihand.com"
+                        }
+                    ]
+    },
+    {
+        "name":  "Tachiyomi: IMHentai",
+        "pkg":  "eu.kanade.tachiyomi.extension.all.imhentai",
+        "apk":  "tachiyomi-all.imhentai-v1.4.24.apk",
+        "lang":  "all",
+        "code":  24,
+        "version":  "1.4.24",
+        "nsfw":  1,
+        "sources":  [
+                        {
+                            "name":  "IMHentai",
+                            "lang":  "en",
+                            "id":  "1797754663718263026",
+                            "baseUrl":  "https://imhentai.xxx"
+                        },
+                        {
+                            "name":  "IMHentai",
+                            "lang":  "ja",
+                            "id":  "2843704102372436364",
+                            "baseUrl":  "https://imhentai.xxx"
+                        },
+                        {
+                            "name":  "IMHentai",
+                            "lang":  "es",
+                            "id":  "1600533831542201953",
+                            "baseUrl":  "https://imhentai.xxx"
+                        },
+                        {
+                            "name":  "IMHentai",
+                            "lang":  "fr",
+                            "id":  "6518732459102419415",
+                            "baseUrl":  "https://imhentai.xxx"
+                        },
+                        {
+                            "name":  "IMHentai",
+                            "lang":  "ko",
+                            "id":  "520535890722709208",
+                            "baseUrl":  "https://imhentai.xxx"
+                        },
+                        {
+                            "name":  "IMHentai",
+                            "lang":  "de",
+                            "id":  "341676138799608238",
+                            "baseUrl":  "https://imhentai.xxx"
+                        },
+                        {
+                            "name":  "IMHentai",
+                            "lang":  "ru",
+                            "id":  "7505608677115153818",
+                            "baseUrl":  "https://imhentai.xxx"
+                        },
+                        {
+                            "name":  "IMHentai",
+                            "lang":  "all",
+                            "id":  "3395462671769287908",
+                            "baseUrl":  "https://imhentai.xxx"
+                        }
+                    ]
+    },
+    {
+        "name":  "Tachiyomi: NovelCool",
+        "pkg":  "eu.kanade.tachiyomi.extension.all.novelcool",
+        "apk":  "tachiyomi-all.novelcool-v1.4.7.apk",
+        "lang":  "all",
+        "code":  7,
+        "version":  "1.4.7",
+        "nsfw":  1,
+        "sources":  [
+                        {
+                            "name":  "NovelCool",
+                            "lang":  "es",
+                            "id":  "438359803442833644",
+                            "baseUrl":  "https://es.novelcool.com"
+                        }
+                    ]
+    },
+    {
+        "name":  "Tachiyomi: DoujinsHell",
+        "pkg":  "eu.kanade.tachiyomi.extension.es.doujinshell",
+        "apk":  "tachiyomi-es.doujinshell-v1.4.51.apk",
+        "lang":  "es",
+        "code":  51,
+        "version":  "1.4.51",
+        "nsfw":  1,
+        "sources":  [
+                        {
+                            "name":  "DoujinsHell",
+                            "lang":  "es",
+                            "id":  "7008709488397053596",
+                            "baseUrl":  "https://doujinshell.net"
+                        }
+                    ]
+    },
+    {
+        "name":  "Tachiyomi: Ikigai Mangas",
+        "pkg":  "eu.kanade.tachiyomi.extension.es.ikigaimangas",
+        "apk":  "tachiyomi-es.ikigaimangas-v1.4.30.apk",
+        "lang":  "es",
+        "code":  30,
+        "version":  "1.4.30",
+        "nsfw":  1,
+        "sources":  [
+                        {
+                            "name":  "Ikigai Mangas",
+                            "lang":  "es",
+                            "id":  "3546919326830738510",
+                            "baseUrl":  "https://viralikigai.melauroral.com"
+                        }
+                    ]
+    },
+    {
+        "name":  "Tachiyomi: ManhwaWeb",
+        "pkg":  "eu.kanade.tachiyomi.extension.es.manhwaweb",
+        "apk":  "tachiyomi-es.manhwaweb-v1.4.10.apk",
+        "lang":  "es",
+        "code":  10,
+        "version":  "1.4.10",
+        "nsfw":  1,
+        "sources":  [
+                        {
+                            "name":  "ManhwaWeb",
+                            "lang":  "es",
+                            "id":  "5943212552955476721",
+                            "baseUrl":  "https://manhwaweb.com"
+                        }
+                    ]
+    },
+    {
+        "name":  "Tachiyomi: Olympus Scanlation",
+        "pkg":  "eu.kanade.tachiyomi.extension.es.olympusscanlation",
+        "apk":  "tachiyomi-es.olympusscanlation-v1.4.17.apk",
+        "lang":  "es",
+        "code":  17,
+        "version":  "1.4.17",
+        "nsfw":  0,
+        "sources":  [
+                        {
+                            "name":  "Olympus Scanlation",
+                            "lang":  "es",
+                            "id":  "1596411039134168890",
+                            "baseUrl":  "https://olympusbiblioteca.com"
+                        }
+                    ]
+    },
+    {
+        "name":  "Tachiyomi: VCPVMP",
+        "pkg":  "eu.kanade.tachiyomi.extension.es.vcpvmp",
+        "apk":  "tachiyomi-es.vcpvmp-v1.4.11.apk",
+        "lang":  "es",
+        "code":  11,
+        "version":  "1.4.11",
+        "nsfw":  1,
+        "sources":  [
+                        {
+                            "name":  "VCP",
+                            "lang":  "es",
+                            "id":  "8472215287946707583",
+                            "baseUrl":  "https://vercomicsporno.com"
+                        },
+                        {
+                            "name":  "VMP",
+                            "lang":  "es",
+                            "id":  "4952451593357491304",
+                            "baseUrl":  "https://vermangasporno.com"
+                        }
+                    ]
+    },
+    {
+        "name":  "Tachiyomi: Zonatmo.to (unoriginal)",
+        "pkg":  "eu.kanade.tachiyomi.extension.es.zonatmoto",
+        "apk":  "tachiyomi-es.zonatmoto-v1.4.2.apk",
+        "lang":  "es",
+        "code":  2,
+        "version":  "1.4.2",
+        "nsfw":  1,
+        "sources":  [
+                        {
+                            "name":  "Zonatmo.to (unoriginal)",
+                            "lang":  "es",
+                            "id":  "1900395790630760038",
+                            "baseUrl":  "https://zonatmo.to"
+                        }
+                    ]
+    }
 ]

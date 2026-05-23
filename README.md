@@ -3,9 +3,13 @@
 Este repo lista solo las fuentes que pediste y que aparecen actualmente como extensiones en Keiyoushi:
 
 - NovelCool ES
+- HentaiHand
+- IMHentai
+- DoujinsHell
 - Ikigai Mangas
 - ManhwaWeb
 - Olympus Scanlation
+- VCP/VMP
 - Zonatmo.to
 
 ## Como usarlo
