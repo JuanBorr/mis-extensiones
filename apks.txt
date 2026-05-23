@@ -1,0 +1,12 @@
+Descarga estos APKs desde el repo de Keiyoushi y ponlos en la carpeta apk/:
+
+https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-all.novelcool-v1.4.7.apk
+https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-es.ikigaimangas-v1.4.30.apk
+https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-es.manhwaweb-v1.4.10.apk
+https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-es.olympusscanlation-v1.4.17.apk
+https://raw.githubusercontent.com/keiyoushi/extensions/repo/apk/tachiyomi-es.zonatmoto-v1.4.2.apk
+
+Pendiente:
+- TMOHentai / https://tmohentai.app/ no aparecio en el indice actual de Keiyoushi.
+- ZonaTMO / https://zonatmo.org/ no aparecio exacto; el repo actual tiene Zonatmo.to en https://zonatmo.to.
+- Ikigai Mangas aparece con baseUrl https://viralikigai.melauroral.com, no con https://zonaikigai.gamesview.shop/.

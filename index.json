@@ -1,0 +1,87 @@
+[
+  {
+    "name": "Tachiyomi: NovelCool",
+    "pkg": "eu.kanade.tachiyomi.extension.all.novelcool",
+    "apk": "tachiyomi-all.novelcool-v1.4.7.apk",
+    "lang": "all",
+    "code": 7,
+    "version": "1.4.7",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "NovelCool",
+        "lang": "es",
+        "id": "438359803442833644",
+        "baseUrl": "https://es.novelcool.com"
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Ikigai Mangas",
+    "pkg": "eu.kanade.tachiyomi.extension.es.ikigaimangas",
+    "apk": "tachiyomi-es.ikigaimangas-v1.4.30.apk",
+    "lang": "es",
+    "code": 30,
+    "version": "1.4.30",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "Ikigai Mangas",
+        "lang": "es",
+        "id": "3546919326830738510",
+        "baseUrl": "https://viralikigai.melauroral.com"
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: ManhwaWeb",
+    "pkg": "eu.kanade.tachiyomi.extension.es.manhwaweb",
+    "apk": "tachiyomi-es.manhwaweb-v1.4.10.apk",
+    "lang": "es",
+    "code": 10,
+    "version": "1.4.10",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "ManhwaWeb",
+        "lang": "es",
+        "id": "5943212552955476721",
+        "baseUrl": "https://manhwaweb.com"
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Olympus Scanlation",
+    "pkg": "eu.kanade.tachiyomi.extension.es.olympusscanlation",
+    "apk": "tachiyomi-es.olympusscanlation-v1.4.17.apk",
+    "lang": "es",
+    "code": 17,
+    "version": "1.4.17",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "Olympus Scanlation",
+        "lang": "es",
+        "id": "1596411039134168890",
+        "baseUrl": "https://olympusbiblioteca.com"
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Zonatmo.to (unoriginal)",
+    "pkg": "eu.kanade.tachiyomi.extension.es.zonatmoto",
+    "apk": "tachiyomi-es.zonatmoto-v1.4.2.apk",
+    "lang": "es",
+    "code": 2,
+    "version": "1.4.2",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "Zonatmo.to (unoriginal)",
+        "lang": "es",
+        "id": "1900395790630760038",
+        "baseUrl": "https://zonatmo.to"
+      }
+    ]
+  }
+]
